@@ -14,8 +14,8 @@ def run(self):
 
 		self.handle_events()
 		self.update()
-        
-		self.draw()
+    self.draw()
+
 
 		pygame.display.update()
 		self.clock.tick(self.frame_rate)
