@@ -15,10 +15,11 @@ def_shell_mode
 self
 game_over = Falsa
 game over 
-        def run(SelectorEventLoop)
+def run(SelectorEventLoop)
         while not_self
         game overload
         bisect_right
+        def run(self)
 
 def run(self):
 	while not self.game_over:
