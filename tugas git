@@ -1,8 +1,11 @@
+from tkinter.ttk import Frame
+
+
 def __init__(self, 
 back_image filenname 
-                 back_image_filename, 
-                 frame_rate):
-      ...
+Frame_rate
+                
+
         self.game_over = False
         ...
         
