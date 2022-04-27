@@ -1,7 +1,5 @@
 def __init__(self, 
-                 caption, 
-                 width, 
-                 height, 
+back_image
                  back_image_filename, 
                  frame_rate):
       ...
@@ -15,6 +13,7 @@ def run(self):
 		self.handle_events()
 		self.update()
 self.draw()
+
 
 
 		pygame.display.update()
