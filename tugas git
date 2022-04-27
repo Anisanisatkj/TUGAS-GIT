@@ -1,5 +1,5 @@
 def __init__(self, 
-back_image
+back_image filenname 
                  back_image_filename, 
                  frame_rate):
       ...
